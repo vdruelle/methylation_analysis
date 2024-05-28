@@ -1,0 +1,23 @@
+{
+    "__default__": {
+        "time": "00:29:00",
+        "qos": "30min",
+        "cpus": 1,
+        "mem": "4G",
+        "extra": ""
+    },
+    "align": {
+        "time": "00:29:00",
+        "qos": "30min",
+        "mem": "8G",
+        "cpus": 4,
+        "extra": ""
+    },
+    "pileup": {
+        "time": "00:29:00",
+        "qos": "30min",
+        "mem": "8G",
+        "cpus": 4,
+        "extra": ""
+    }
+}
