@@ -1,5 +1,4 @@
 /softwares/*
 /.snakemake
-/test_data/input/reads
 /test_data/output/*
 /log
