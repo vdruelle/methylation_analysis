@@ -1,6 +1,5 @@
 /softwares/*
 /.snakemake
-/test_data/*
-!/test_data/raw
-!/test_data/params.tsv
+/test_data/input/reads
+/test_data/output/*
 /log

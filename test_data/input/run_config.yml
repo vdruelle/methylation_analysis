@@ -1,0 +1,10 @@
+run_config:
+  input: "test_data/input"
+  output: "test_data/output"
+  pileups:
+    SL1344:
+      - "barcode_01"
+      - "barcode_02"
+    SL1344_test:
+      - "barcode_01"
+      - "barcode_02"
